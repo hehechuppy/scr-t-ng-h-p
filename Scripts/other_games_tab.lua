@@ -9,7 +9,7 @@ local SupportedGames = {
     },
     {
         name = "Steal an Egg",
-        scriptName = "CLOVER HUB (No Key)",
+        scriptName = "CLOVER HUB (Key)",
         url = "https://raw.githubusercontent.com/Ryuun0x/Clover/refs/heads/main/main.lua"
     },
     {
