@@ -5,7 +5,7 @@ local SupportedGames = {
     {
         name = "Steal an Egg",
         scriptName = "VALINC HUB (No Key)",
-        url = "https://api.valincsyndicate.com/v1/releases/5502cba03703f4a3628d522d396b80d8.lua"
+        url = "loadstring(game:HttpGet("https://cloverhub.app/clover.lua"))()"
     },
     {
         name = "Steal an Egg",
